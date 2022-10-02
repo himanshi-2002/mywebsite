@@ -1,0 +1,32 @@
+body
+{
+    background-color: #F2D7D9;
+}
+hr
+{
+    border-color: rgb(73, 76, 104);
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    height:0px;
+    width: 5%;
+}
+img
+{
+    height: 250px;
+}
+h1
+{
+    color:rgb(204, 11, 43);
+    text-decoration: underline blue solid 5px;
+}
+h3
+{
+    color:purple;
+}
+h2
+{
+    color:rgb(39, 90, 9);
+}
+
+
